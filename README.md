@@ -1,2 +1,2 @@
 # actions-practice
-practice with ci pipeline
+practice repo with ci pipeline
